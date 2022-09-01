@@ -1,2 +1,3 @@
 #!/bin/bash
-this makes another line
+./-0-current_working_directory
+
